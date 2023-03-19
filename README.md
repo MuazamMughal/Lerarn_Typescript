@@ -1,3 +1,3 @@
 # Lerarn_Typescript
 learning Typescript with panaverse DAO
-after learing the basic sysntex of the language im satrting the next pluse satge
+after learing the basic sysntex of the language I'm satrting the next plus stage
